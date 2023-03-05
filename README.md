@@ -1,11 +1,12 @@
-## mbgdregressor
+## Mbgdregressor
 
 This is a small library that tries to run mini batch gradient desent on your linear regression dataset which is not primitively implemented in sklearn library.
 
+### https://pypi.org/project/Mbgdregressor/1.1/
 
 ### Install
 ```sh
-pip install gdregressor
+pip install Mbgdregressor==1.1
 ```
 
 ### Usage
